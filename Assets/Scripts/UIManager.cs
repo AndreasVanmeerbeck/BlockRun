@@ -20,7 +20,7 @@ public class UIManager : MonoBehaviour
     void Start()
     {
         _playerScore = 0;
-        _timeLeft = 5f;
+        _timeLeft = 30f;
 
     }
 
